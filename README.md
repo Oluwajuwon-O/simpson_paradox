@@ -2,7 +2,7 @@
 Python for Data Analysis
 Project - Admission Case Study
 
-We investigated of case of gender discrimination in the admission process of a particular University. 
+I investigated of case of gender discrimination in the admission process of a particular University. 
 Aggregated ratio of the total number of males to females suggested that males were favored over females. 
 However, further investigation by suggested otherwise. The investigation involved looking at the admission rate of the two majors.
 The admission rate of the two majors (Physics and Chemistry) showed that Females were more favored than the Males.
